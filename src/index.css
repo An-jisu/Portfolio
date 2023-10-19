@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    text-decoration-line: none;
+  }
+  
+  /* @font-face {
+    font-family: 'Noto Sans KR';
+    font-weight: 400;
+    src: url('../src/assets/font/NotoSansKR-Regular.ttf') format('woff2'),
+      url('../src/assets/font/NotoSansKR-Regular.ttf') format('woff'),
+      url('../src/assets/font/NotoSansKR-Regular.ttf') format('truetype');
+  } */
+
+  body, * {
+    margin: 0;
+    font-family: 'Noto Sans KR', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
