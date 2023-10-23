@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "ROEHOE-CHAN";
+  src: url("./assets/fonts/ROEHOE-CHAN.ttf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "IntelOneMono-Light";
+  src: url("./assets/fonts/IntelOneMono-Light.ttf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "IntelOneMono-Bold";
+  src: url("./assets/fonts/IntelOneMono-Bold.ttf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "omyu pretty";
+  src: url("./assets/fonts/omyu pretty.ttf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "cachildren kkum";
+  src: url("./assets/fonts/cachildren kkum.ttf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "The Jamsil 1 Thin";
+  src: url("./assets/fonts/The Jamsil 1 Thin.ttf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "The Jamsil 2 Light";
+  src: url("./assets/fonts/The Jamsil 2 Light.ttf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "The Jamsil 3 Regular";
+  src: url("./assets/fonts/The Jamsil 3 Regular.ttf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "The Jamsil 4 Medium";
+  src: url("./assets/fonts/The Jamsil 4 Medium.ttf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "SUIT-Light";
+  src: url("./assets/fonts/SUIT-Light.ttf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "SUIT-Medium";
+  src: url("./assets/fonts/SUIT-Medium.ttf");
+  font-weight: 700;
+}

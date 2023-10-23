@@ -1,10 +1,14 @@
+import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import Main from "./Main";
+import "./App.css";
 
 function App() {
   return (
-    <div>
-      <Main />
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Main />} />
+      </Routes>
+    </Router>
   );
 }
 
