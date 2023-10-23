@@ -11,11 +11,18 @@ const CategoryBox = styled.div`
   background: ${(props) => (props.isSelected ? "#3154c1" : "white")};
   color: ${(props) => (props.isSelected ? "white" : "black")};
   text-align: center;
-  font-family: Inter;
+  font-family: "The Jamsil 5 Bold";
   font-size: 17px;
   font-weight: 700;
   line-height: normal;
   box-shadow: 4px 0 8px rgba(206, 184, 184, 0.5);
+  cursor: pointer;
+  &:hover {
+    border: none;
+    box-shadow: 0 0 10px #3154c1, 4px 0 10px #3154c1, 0 10px 10px #3154c1,
+      -4px 0 10px #3154c1;
+    transform: translate(0, -8%);
+  }
 `;
 
 const Category = (props) => {
